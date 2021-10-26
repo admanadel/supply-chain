@@ -1,0 +1,26 @@
+{
+  "name": "supply-chain-E",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "(https://ipfs.infura.io/ipfs/QmSXiR9Khm3yo1J67nUopvVBxFJ8YGN2fUGZ34Etr3m92x/)",
+  "license": "MIT",
+  "devDependencies": {
+    "copy-webpack-plugin": "^5.0.5",
+    "lite-server": "^2.6.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "openzeppelin-solidity": "^2.4.0",
+    "web3": "^1.2.4",
+    "truffle-hdwallet-provider": "^1.0.13"
+  }
+}
